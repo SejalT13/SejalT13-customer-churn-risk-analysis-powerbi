@@ -129,7 +129,8 @@ The dashboard includes:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](images/ dashboard_preview.png)
+Example:
+![Dashboard Preview](images/dashboard_Preview.png)
 
 ---
 
