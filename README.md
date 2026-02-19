@@ -130,7 +130,7 @@ The dashboard includes:
 ## 🖼 Dashboard Preview
 
 Example:
-![Dashboard Preview](images/dashboard_Preview.png)
+![Dashboard Preview](images/ dashboard_preview.png)
 
 ---
 
