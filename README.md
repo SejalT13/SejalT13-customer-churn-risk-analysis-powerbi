@@ -1,6 +1,6 @@
-# 📊 Customer Churn Risk & Revenue Impact Analysis
+# Customer Churn Risk & Revenue Impact Analysis
 
-## 🔎 Project Overview
+##  Project Overview
 
 This project builds an end-to-end Customer Churn Prediction system using Machine Learning and translates churn probability into business-focused revenue exposure insights using Power BI.
 
@@ -8,7 +8,7 @@ The objective is not just to predict churn, but to quantify financial risk and s
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Customer churn directly impacts recurring revenue in subscription-based businesses.
 
@@ -21,7 +21,7 @@ The goals of this project are to:
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Python (Pandas, NumPy, Scikit-learn)
 - Logistic Regression
@@ -32,7 +32,7 @@ The goals of this project are to:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The Telco Customer Churn dataset includes:
 
@@ -43,7 +43,7 @@ The Telco Customer Churn dataset includes:
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 Key preprocessing steps:
 
@@ -59,7 +59,7 @@ Two dataset versions were created:
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
 ### Models Trained
 - Logistic Regression  
@@ -82,7 +82,7 @@ Logistic Regression
 
 ---
 
-## 📊 Risk Segmentation Strategy
+##  Risk Segmentation Strategy
 
 Churn probability was segmented into:
 
@@ -94,7 +94,7 @@ This enables targeted retention strategies.
 
 ---
 
-## 💰 Revenue Exposure Calculation
+##  Revenue Exposure Calculation
 
 Revenue at Risk was calculated using:
 
@@ -104,7 +104,7 @@ This provides expected revenue exposure instead of only historical churn counts.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Month-to-month customers show significantly higher churn rates.
 - Electronic check users represent the highest revenue exposure.
@@ -113,7 +113,7 @@ This provides expected revenue exposure instead of only historical churn counts.
 
 ---
 
-## 📊 Power BI Dashboard Overview
+##  Power BI Dashboard Overview
 
 The dashboard includes:
 
@@ -127,7 +127,7 @@ The dashboard includes:
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 Example:
 <img width="881" height="495" alt="image" src="https://github.com/user-attachments/assets/70f6e1ed-73df-4b27-aaf7-38baaf0f404a" />
@@ -135,7 +135,7 @@ Example:
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 
 This solution enables organizations to:
 
@@ -146,7 +146,7 @@ This solution enables organizations to:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 customer-churn-risk-analysis-powerbi/
 │
@@ -166,7 +166,7 @@ customer-churn-risk-analysis-powerbi/
 
 ---
 
-## 🎯 What This Project Demonstrates
+##  What This Project Demonstrates
 
 - End-to-end ML workflow  
 - Model evaluation and selection  
