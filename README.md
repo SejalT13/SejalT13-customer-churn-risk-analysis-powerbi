@@ -130,7 +130,8 @@ The dashboard includes:
 ## 🖼 Dashboard Preview
 
 Example:
-![Dashboard Preview](images/ dashboard_preview.png)
+<img width="881" height="495" alt="image" src="https://github.com/user-attachments/assets/70f6e1ed-73df-4b27-aaf7-38baaf0f404a" />
+
 
 ---
 
